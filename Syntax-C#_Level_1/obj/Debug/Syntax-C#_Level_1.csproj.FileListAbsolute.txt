@@ -1,0 +1,7 @@
+C:\Users\Mahmoud\Desktop\Cources\Course_C#\C_Sharp_Syntax\Syntax-C#_Level_1\Syntax-C#_Level_1\bin\Debug\Syntax-C#_Level_1.exe.config
+C:\Users\Mahmoud\Desktop\Cources\Course_C#\C_Sharp_Syntax\Syntax-C#_Level_1\Syntax-C#_Level_1\bin\Debug\Syntax-C#_Level_1.exe
+C:\Users\Mahmoud\Desktop\Cources\Course_C#\C_Sharp_Syntax\Syntax-C#_Level_1\Syntax-C#_Level_1\bin\Debug\Syntax-C#_Level_1.pdb
+C:\Users\Mahmoud\Desktop\Cources\Course_C#\C_Sharp_Syntax\Syntax-C#_Level_1\Syntax-C#_Level_1\obj\Debug\Syntax-C#_Level_1.csproj.AssemblyReference.cache
+C:\Users\Mahmoud\Desktop\Cources\Course_C#\C_Sharp_Syntax\Syntax-C#_Level_1\Syntax-C#_Level_1\obj\Debug\Syntax-C#_Level_1.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\Desktop\Cources\Course_C#\C_Sharp_Syntax\Syntax-C#_Level_1\Syntax-C#_Level_1\obj\Debug\Syntax-C#_Level_1.exe
+C:\Users\Mahmoud\Desktop\Cources\Course_C#\C_Sharp_Syntax\Syntax-C#_Level_1\Syntax-C#_Level_1\obj\Debug\Syntax-C#_Level_1.pdb
