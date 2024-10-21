@@ -20,6 +20,8 @@ namespace FirsConsol_1
             Sunday      // 6
         }
 
+
+
         //if you set a value , it will auto number everything after it.
         enum enCategories
         {
@@ -60,6 +62,22 @@ namespace FirsConsol_1
             //System.Int32 g = 50;
             //sbyte d = 127;
             //byte p = 255;
+
+
+            //// Type your username and press enter
+            //Console.WriteLine("Enter username?");
+
+            //string userName = Console.ReadLine();
+            //Console.WriteLine("Username is: " + userName);
+
+
+            //Console.WriteLine("Enter your age?");
+            ////if you dont convert you will get error, and if you enter string you will get error
+            //int age = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("Your age is: " + age);
+
+
+
 
             //System.Console.WriteLine("Hello");
             //System.Console.WriteLine(c);
@@ -287,26 +305,118 @@ namespace FirsConsol_1
             //Console.WriteLine(dt1 <= dt2);//True
 
 
-            var str = "6/12/2023";
-            DateTime dt;
 
-            var isValidDate = DateTime.TryParse(str, out dt);
 
-            if (isValidDate)
-                Console.WriteLine(dt);
-            else
-                Console.WriteLine($"{str} is not a valid date string");
 
-            //invalid string date
-            var str2 = "6/65/2023";
-            DateTime dt2;
+            //var str = "6/12/2023";
+            //DateTime dt;
 
-            var isValidDate2 = DateTime.TryParse(str2, out dt2);
+            //var isValidDate = DateTime.TryParse(str, out dt);
 
-            if (isValidDate2)
-                Console.WriteLine(dt2);
-            else
-                Console.WriteLine($"{str2} is not a valid date string");
+            //if (isValidDate)
+            //    Console.WriteLine(dt);
+            //else
+            //    Console.WriteLine($"{str} is not a valid date string");
+
+            ////invalid string date
+            //var str2 = "6/65/2023";
+            //DateTime dt2;
+
+            //var isValidDate2 = DateTime.TryParse(str2, out dt2);
+
+            //if (isValidDate2)
+            //    Console.WriteLine(dt2);
+            //else
+            //    Console.WriteLine($"{str2} is not a valid date string");
+
+
+
+
+
+            //string S1 = "Mohammed Abu-Hadhoud";
+
+            //Console.WriteLine(S1.Length);
+
+            ////this will take 5 characters staring position 2
+            //Console.WriteLine(S1.Substring(2, 5));
+            //Console.WriteLine(S1.ToLower());
+            //Console.WriteLine(S1.ToUpper());
+            //Console.WriteLine(S1[2]);
+            //Console.WriteLine(S1.Insert(3, "KKKK"));
+            //Console.WriteLine(S1.Replace("m", "*"));
+            //Console.WriteLine(S1.IndexOf("m"));
+            //Console.WriteLine(S1.Contains("m"));
+            //Console.WriteLine(S1.Contains("x"));
+            //Console.WriteLine(S1.LastIndexOf("m"));
+
+            //string S2 = "Ali,Ahmed,Khalid";
+
+            //string[] NamesList = S2.Split(',');
+
+            //Console.WriteLine(NamesList[0]);
+            //Console.WriteLine(NamesList[1]);
+            //Console.WriteLine(NamesList[2]);
+
+            //string S3 = "  Abu-Hadhoud  ";
+            //Console.WriteLine(S3.Trim());
+            //Console.WriteLine(S3.TrimStart());
+            //Console.WriteLine(S3.TrimEnd());
+
+
+
+            ////  String Interpolation
+
+            //string firstName = "Mohammed";
+            //string lastName = "Abu-Hadhoud";
+            //string code = "107";
+
+            ////You shold use $ to $ to identify an interpolated string 
+            //string fullName = $"Mr. {firstName} {lastName}, Code: {code}";
+
+            //Console.WriteLine(fullName);
+
+
+
+            //int myInt = 17;
+            //double myDouble = myInt;       // Automatic casting: int to double
+
+            //Console.WriteLine(myInt);      // Outputs 17
+            //Console.WriteLine(myDouble);   // Outputs 17
+
+
+            //double myDouble = 17.58;
+            //int myInt = (int)myDouble;    // Manual casting: double to int
+
+            //Console.WriteLine(myDouble);   // Outputs 17.58
+            //Console.WriteLine(myInt);      // Outputs 17
+
+
+            //int myInt = 20;
+            //double myDouble = 7.25;
+            //bool myBool = true;
+
+            //Console.WriteLine(Convert.ToString(myInt));    // convert int to string
+            //Console.WriteLine(Convert.ToDouble(myInt));    // convert int to double
+            //Console.WriteLine(Convert.ToInt32(myDouble));  // convert double to int
+            //Console.WriteLine(Convert.ToString(myBool));   // convert bool to string
+            //Console.WriteLine(Convert.ToInt16(myBool));   // convert bool to string
+
+
+
+            //Console.WriteLine(enWeekDays.Friday); //output: Friday 
+            //int day = (int)enWeekDays.Friday; // enum to int conversion
+            //Console.WriteLine(day); //output: 4 
+
+            //var wd = (enWeekDays)5; // int to enum conversion
+            //Console.WriteLine(wd);//output: Saturday 
+
+
+
+
+
+
+
+
 
 
 
