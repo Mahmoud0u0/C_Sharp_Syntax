@@ -1,13 +1,18 @@
 ﻿using System;
-//using System.Collections.Generic;
-//using System.Linq;
-//using System.Text;
-//using System.Threading.Tasks;
+
+// provides us various methods to use in an array
+using System.Linq;
 
 namespace FirsConsol_1
 {
     internal class Program
     {
+
+
+        static void PrintMyInfo(string Name, byte Age)
+        {
+            Console.WriteLine("Name= {0} , Age= {1}", Name, Age);
+        }
 
         enum enWeekDays
         {
@@ -62,6 +67,32 @@ namespace FirsConsol_1
             //System.Int32 g = 50;
             //sbyte d = 127;
             //byte p = 255;
+
+
+
+            //Random rnd = new Random();
+
+            //for (int j = 0; j < 4; j++)
+            //{
+            //    Console.WriteLine(rnd.Next(10, 20)); // returns random integers >= 10 and < 20
+            //}
+
+
+
+
+            //PrintMyInfo("Mohammed-AbuHadhoud", 45);
+
+
+            //try
+            //{
+            //    int[] myNumbers = { 1, 2, 3 };
+            //    Console.WriteLine(myNumbers[10]);
+            //}
+            //catch (Exception e)
+            //{
+            //    Console.WriteLine(e.Message);
+            //}
+
 
 
             //// Type your username and press enter
@@ -412,21 +443,165 @@ namespace FirsConsol_1
 
 
 
+            //int number = 12;
+            //string result;
+
+            //result = (number % 2 == 0) ? "Even Number" : "Odd Number";
+            //Console.WriteLine("{0} is {1}", number, result);
+
+
+
+            ////Simple Calculator
+
+            //char op;
+            //double first, second, result;
+
+            //Console.Write("Enter first number: ");
+            //first = Convert.ToDouble(Console.ReadLine());
+            //Console.Write("Enter second number: ");
+            //second = Convert.ToDouble(Console.ReadLine());
+            //Console.Write("Enter operator (+, -, *, /): ");
+            //op = (char)Console.Read();
+
+            //switch (op)
+            //{
+            //    case '+':
+            //        result = first + second;
+            //        Console.WriteLine("{0} + {1} = {2}", first, second, result);
+            //        break;
+
+            //    case '-':
+            //        result = first - second;
+            //        Console.WriteLine("{0} - {1} = {2}", first, second, result);
+            //        break;
+
+            //    case '*':
+            //        result = first * second;
+            //        Console.WriteLine("{0} * {1} = {2}", first, second, result);
+            //        break;
+
+            //    case '/':
+            //        result = first / second;
+            //        Console.WriteLine("{0} / {1} = {2}", first, second, result);
+            //        break;
+
+            //    default:
+            //        Console.WriteLine("Invalid Operator");
+            //        break;
+
+            //}
 
 
 
 
+            //int i = 1;
+            //do
+            //{
+
+            //    Console.WriteLine("C# while Loop: Iteration {0}", i);
+
+            //    if (i == 3)
+            //        break;
+
+            //    i++;
+
+            //} while (i <= 5);
+
+
+
+            //for (int i = 1; i <= 5; ++i)
+            //{
+
+            //    if (i == 3)
+            //    {
+            //        continue;
+            //    }
+
+            //    Console.WriteLine(i);
+            //}
+
+
+
+            //// create an array
+            //int[] numbers = { 1, 2, 3 };
+
+            ////access first element
+            //Console.WriteLine("Element in first index : " + numbers[0]);
+
+            ////access second element
+            //Console.WriteLine("Element in second index : " + numbers[1]);
+
+            ////access third element
+            //Console.WriteLine("Element in third index : " + numbers[2]);
+
+
+            ////through loop
+            //Console.WriteLine("\nAccess array using loop:\n");
+            //for (int i = 0; i < numbers.Length; i++)
+            //{
+            //    Console.WriteLine("Element in index {0} : {1} ", i, numbers[0]);
+            //}
+
+
+
+            //char[] gender = { 'm', 'f', 'm', 'm', 'm', 'f', 'f', 'm', 'm', 'f' };
+            //int male = 0, female = 0;
+            //foreach (char g in gender)
+            //{
+            //    if (g == 'm')
+            //        male++;
+            //    else if (g == 'f')
+            //        female++;
+            //}
+            //Console.WriteLine("Number of male = {0}", male);
+            //Console.WriteLine("Number of female = {0}", female);
 
 
 
 
+            //char[] myArray = { 'H', 'e', 'l', 'l', 'o' };
+
+            //foreach (char ch in myArray)
+            //{
+            //    Console.Write(ch);
+            //}
 
 
 
+            //// Note that we used System.Linq above.
+
+            //int[] numbers = { 51, -1, 2, 14, 18, 40, 178 };
+
+            //// get the minimum element
+            //Console.WriteLine("Smallest  Element: " + numbers.Min());
+
+            //// Max() returns the largest number in array
+            //Console.WriteLine("Largest Element: " + numbers.Max());
 
 
 
+            //// Note that we used System.Linq above.
 
+            //int[] numbers = { 20, 22, 19, 18, 1 };
+
+
+
+            //// compute Count
+            //Console.WriteLine("Count : " + numbers.Count());
+
+            //// compute Sum
+            //Console.WriteLine("Sum : " + numbers.Sum());
+
+            //// compute the average
+            //Console.WriteLine("Average: " + numbers.Average());
+
+
+
+            //Console.WriteLine("Max of 5, 10 is: {0}", Math.Max(5, 10));
+            //Console.WriteLine("Min of 5, 10 is: {0}", Math.Min(5, 10));
+            //Console.WriteLine("Squir Root of 64 is: {0}", Math.Sqrt(64));
+            //Console.WriteLine("Absolute (positive) value of  -4.7 is: {0}", Math.Abs(-4.7));
+            //Console.WriteLine("Round of 9.99 is: {0}", Math.Round(9.99));
 
 
 

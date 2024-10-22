@@ -12,3 +12,11 @@ C:\Users\Mahmoud\Desktop\Cources\Course_C#\C_Sharp_Syntax\Syntax-C#_Level_1\obj\
 C:\Users\Mahmoud\Desktop\Cources\Course_C#\C_Sharp_Syntax\Syntax-C#_Level_1\obj\Debug\Syntax-C#_Level_1.csproj.CoreCompileInputs.cache
 C:\Users\Mahmoud\Desktop\Cources\Course_C#\C_Sharp_Syntax\Syntax-C#_Level_1\obj\Debug\Syntax-C#_Level_1.exe
 C:\Users\Mahmoud\Desktop\Cources\Course_C#\C_Sharp_Syntax\Syntax-C#_Level_1\obj\Debug\Syntax-C#_Level_1.pdb
+C:\Users\97252\Desktop\C++Course\C_SharpCourse\C_Sharp_Syntax\Syntax-C#_Level_1\bin\Debug\Syntax-C#_Level_1.exe.config
+C:\Users\97252\Desktop\C++Course\C_SharpCourse\C_Sharp_Syntax\Syntax-C#_Level_1\bin\Debug\Syntax-C#_Level_1.exe
+C:\Users\97252\Desktop\C++Course\C_SharpCourse\C_Sharp_Syntax\Syntax-C#_Level_1\bin\Debug\Syntax-C#_Level_1.pdb
+C:\Users\97252\Desktop\C++Course\C_SharpCourse\C_Sharp_Syntax\Syntax-C#_Level_1\obj\Debug\Syntax-C#_Level_1.csproj.AssemblyReference.cache
+C:\Users\97252\Desktop\C++Course\C_SharpCourse\C_Sharp_Syntax\Syntax-C#_Level_1\obj\Debug\Syntax-C#_Level_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\97252\Desktop\C++Course\C_SharpCourse\C_Sharp_Syntax\Syntax-C#_Level_1\obj\Debug\Syntax-C#_Level_1.csproj.CoreCompileInputs.cache
+C:\Users\97252\Desktop\C++Course\C_SharpCourse\C_Sharp_Syntax\Syntax-C#_Level_1\obj\Debug\Syntax-C#_Level_1.exe
+C:\Users\97252\Desktop\C++Course\C_SharpCourse\C_Sharp_Syntax\Syntax-C#_Level_1\obj\Debug\Syntax-C#_Level_1.pdb
